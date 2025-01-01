@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Ceren Demir",
+        "grade": "üniversite",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quas culpa illo odio doloremque, optio, magni at nostrum quis porro consequuntur maiores numquam atque perspiciatis.",
+        "avator": "../images/stud-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Zeynep Yakut",
+        "grade": "üniversite",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quas culpa illo odio doloremque, optio, magni at nostrum quis porro consequuntur maiores numquam atque perspiciatis.",
+        "avator": "../images/stud-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Feyza Demirtaş",
+        "grade": "lise",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quas culpa illo odio doloremque, optio, magni at nostrum quis porro consequuntur maiores numquam atque perspiciatis.",
+        "avator": "../images/stud-3.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Öznur Yakut",
+        "grade": "üniversite",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quas culpa illo odio doloremque, optio, magni at nostrum quis porro consequuntur maiores numquam atque perspiciatis.",
+        "avator": "../images/stud-4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Salih Yıldız",
+        "grade": "üniversite",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quas culpa illo odio doloremque, optio, magni at nostrum quis porro consequuntur maiores numquam atque perspiciatis.",
+        "avator": "../images/stud-5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Beyza Akar",
+        "grade": "üniversite",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quas culpa illo odio doloremque, optio, magni at nostrum quis porro consequuntur maiores numquam atque perspiciatis.",
+        "avator": "../images/stud-6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Zeynep Öztürk",
+        "grade": "üniversite",
+        "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quas culpa illo odio doloremque, optio, magni at nostrum quis porro consequuntur maiores numquam atque perspiciatis.",
+        "avator": "../images/stud-7.webp"
+    }
+]
